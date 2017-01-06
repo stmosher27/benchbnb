@@ -20,5 +20,14 @@
     "react-redux": "^5.0.1",
     "redux": "^3.6.0",
     "webpack": "^1.14.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stmosher27/benchbnb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stmosher27/benchbnb/issues"
+  },
+  "homepage": "https://github.com/stmosher27/benchbnb#readme"
 }
